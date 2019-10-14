@@ -1,1 +1,1 @@
-dota2
+Dota 2 games results prediction in python.
